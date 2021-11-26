@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الذكر</string>
+    <string name="save">يحفظ</string>
+    <string name="increase">يزيد.</string>
+    <string name="total">المجموع</string>
+    <string name="lastsave">آخر حفظ.</string>
+    <string name="reset">إعادة ضبط</string>
+</resources>

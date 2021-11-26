@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zikirmatik</string>
+    <string name="save">Kaydet</string>
+    <string name="increase">Zikret</string>
+    <string name="total">Zikrettiklerim</string>
+    <string name="lastsave">Son Kaydedilen</string>
+    <string name="reset">Sıfırla</string>
+</resources>

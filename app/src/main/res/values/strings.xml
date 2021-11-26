@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tall Counter</string>
+    <string name="save">Save</string>
+    <string name="increase">Increase</string>
+    <string name="total">Total</string>
+    <string name="lastsave">Last recorded</string>
+    <string name="reset">Reset</string>
+</resources>
